@@ -466,7 +466,7 @@ span {
 
 .box img {
     margin-bottom: 30px;
-    
+    margin-top: 40px;
 }
 
 .text-box p {
@@ -486,9 +486,9 @@ span {
 .text-box {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    
-    width: 250px;
+    justify-content: space-around;
+    height: 100%;
+    width: 240px;
     gap: 20px;
 }
 
